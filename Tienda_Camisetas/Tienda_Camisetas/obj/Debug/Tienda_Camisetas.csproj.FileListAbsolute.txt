@@ -1,0 +1,7 @@
+C:\Users\50689\Documents\III Q\Progra 2\Tarea2\Tienda_Camisetas\Tienda_Camisetas\bin\Debug\Tienda_Camisetas.exe.config
+C:\Users\50689\Documents\III Q\Progra 2\Tarea2\Tienda_Camisetas\Tienda_Camisetas\bin\Debug\Tienda_Camisetas.exe
+C:\Users\50689\Documents\III Q\Progra 2\Tarea2\Tienda_Camisetas\Tienda_Camisetas\bin\Debug\Tienda_Camisetas.pdb
+C:\Users\50689\Documents\III Q\Progra 2\Tarea2\Tienda_Camisetas\Tienda_Camisetas\obj\Debug\Tienda_Camisetas.csproj.AssemblyReference.cache
+C:\Users\50689\Documents\III Q\Progra 2\Tarea2\Tienda_Camisetas\Tienda_Camisetas\obj\Debug\Tienda_Camisetas.csproj.CoreCompileInputs.cache
+C:\Users\50689\Documents\III Q\Progra 2\Tarea2\Tienda_Camisetas\Tienda_Camisetas\obj\Debug\Tienda_Camisetas.exe
+C:\Users\50689\Documents\III Q\Progra 2\Tarea2\Tienda_Camisetas\Tienda_Camisetas\obj\Debug\Tienda_Camisetas.pdb

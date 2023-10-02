@@ -1,0 +1,7 @@
+C:\Users\50689\Documents\III Q\Progra 2\Tarea2\Venta_Productos\Venta_Productos\bin\Debug\Venta_Productos.exe.config
+C:\Users\50689\Documents\III Q\Progra 2\Tarea2\Venta_Productos\Venta_Productos\bin\Debug\Venta_Productos.exe
+C:\Users\50689\Documents\III Q\Progra 2\Tarea2\Venta_Productos\Venta_Productos\bin\Debug\Venta_Productos.pdb
+C:\Users\50689\Documents\III Q\Progra 2\Tarea2\Venta_Productos\Venta_Productos\obj\Debug\Venta_Productos.csproj.AssemblyReference.cache
+C:\Users\50689\Documents\III Q\Progra 2\Tarea2\Venta_Productos\Venta_Productos\obj\Debug\Venta_Productos.csproj.CoreCompileInputs.cache
+C:\Users\50689\Documents\III Q\Progra 2\Tarea2\Venta_Productos\Venta_Productos\obj\Debug\Venta_Productos.exe
+C:\Users\50689\Documents\III Q\Progra 2\Tarea2\Venta_Productos\Venta_Productos\obj\Debug\Venta_Productos.pdb

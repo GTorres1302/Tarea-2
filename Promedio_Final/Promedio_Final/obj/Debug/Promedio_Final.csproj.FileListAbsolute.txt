@@ -1,0 +1,14 @@
+C:\Users\50689\Documents\III Q\Progra 2\Tarea2\Promedio_Final\Promedio_Final\bin\Debug\Promedio_Final.exe.config
+C:\Users\50689\Documents\III Q\Progra 2\Tarea2\Promedio_Final\Promedio_Final\bin\Debug\Promedio_Final.exe
+C:\Users\50689\Documents\III Q\Progra 2\Tarea2\Promedio_Final\Promedio_Final\bin\Debug\Promedio_Final.pdb
+C:\Users\50689\Documents\III Q\Progra 2\Tarea2\Promedio_Final\Promedio_Final\obj\Debug\Promedio_Final.csproj.AssemblyReference.cache
+C:\Users\50689\Documents\III Q\Progra 2\Tarea2\Promedio_Final\Promedio_Final\obj\Debug\Promedio_Final.csproj.CoreCompileInputs.cache
+C:\Users\50689\Documents\III Q\Progra 2\Tarea2\Promedio_Final\Promedio_Final\obj\Debug\Promedio_Final.exe
+C:\Users\50689\Documents\III Q\Progra 2\Tarea2\Promedio_Final\Promedio_Final\obj\Debug\Promedio_Final.pdb
+C:\Users\50689\Documents\III Q\Progra 2\Tarea-2\Promedio_Final\Promedio_Final\bin\Debug\Promedio_Final.exe.config
+C:\Users\50689\Documents\III Q\Progra 2\Tarea-2\Promedio_Final\Promedio_Final\bin\Debug\Promedio_Final.exe
+C:\Users\50689\Documents\III Q\Progra 2\Tarea-2\Promedio_Final\Promedio_Final\bin\Debug\Promedio_Final.pdb
+C:\Users\50689\Documents\III Q\Progra 2\Tarea-2\Promedio_Final\Promedio_Final\obj\Debug\Promedio_Final.csproj.AssemblyReference.cache
+C:\Users\50689\Documents\III Q\Progra 2\Tarea-2\Promedio_Final\Promedio_Final\obj\Debug\Promedio_Final.csproj.CoreCompileInputs.cache
+C:\Users\50689\Documents\III Q\Progra 2\Tarea-2\Promedio_Final\Promedio_Final\obj\Debug\Promedio_Final.exe
+C:\Users\50689\Documents\III Q\Progra 2\Tarea-2\Promedio_Final\Promedio_Final\obj\Debug\Promedio_Final.pdb
